@@ -2,6 +2,10 @@
 
 Eclipse Cargo Tracker - Applied Domain-Driven Design Blueprints for Jakarta EE
 
+## Referencia
+
+[cargotracker](https://github.com/eclipse-ee4j/cargotracker)
+
 ## Getting started
 
 To make it easy for you to get started with GitLab, here's a list of recommended next steps.
