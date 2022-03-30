@@ -1,52 +1,19 @@
 # cargotracker
 
-Eclipse Cargo Tracker - Applied Domain-Driven Design Blueprints for Jakarta EE
+The Cargo Tracker project demonstrates how you can develop applications with the Jakarta EE platform using widely adopted architectural best practices like Domain-Driven Design (DDD). The project is directly based on the well known original [Java DDD sample](http://dddsample.sourceforge.net/) application developed by DDD pioneer Eric Evans' company [Domain Language](http://domainlanguage.com/) and the Swedish software consulting company [Citerus](http://www.citerus.se/). The cargo example actually comes from Eric Evans [seminal book](http://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215). That project uses older versions of Spring, Hibernate and Jetty whereas we focus on vanilla Jakarta EE.
+
+- The [Getting Started](https://github.com/eclipse-ee4j/cargotracker/wiki/Getting-Started) section provides brief orientation on the project.
+- The [Eclipse IDE](https://github.com/eclipse-ee4j/cargotracker/wiki/Eclipse-IDE) section provides detailed instructions on how to get started with Eclipse IDE.
+- The [Jakarta EE and DDD](https://github.com/eclipse-ee4j/cargotracker/wiki/Jakarta-EE-and-DDD) section provides a brief overview of DDD as it relates to this project and Jakarta EE.
+- The [Characterization](https://github.com/eclipse-ee4j/cargotracker/wiki/Characterization) section overviews how the basic building blocks of the domain - entities, value objects, aggregates, services, repositories and factories - are implemented in the application using Jakarta EE.
+- The [Layers](https://github.com/eclipse-ee4j/cargotracker/wiki/Layers) section explains the architectural layers in the application and how they relate to various Jakarta EE APIs.
+- The [Resources](https://github.com/eclipse-ee4j/cargotracker/wiki/Resources) section provides some useful resources for learning more about DDD and Jakarta EE.
+
+You should also check out the [project website](https://eclipse-ee4j.github.io/cargotracker/) for further context.
 
 ## Referencia
 
 [cargotracker](https://github.com/eclipse-ee4j/cargotracker)
-
-## Getting started
-
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
-
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
-
-## Add your files
-
-- [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
-- [ ] [Add files using the command line](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
-
-```
-cd existing_repo
-git remote add origin https://gitlab.com/junior-vs/cargotracker.git
-git branch -M main
-git push -uf origin main
-```
-
-## Integrate with your tools
-
-- [ ] [Set up project integrations](https://gitlab.com/junior-vs/cargotracker/-/settings/integrations)
-
-## Collaborate with your team
-
-- [ ] [Invite team members and collaborators](https://docs.gitlab.com/ee/user/project/members/)
-- [ ] [Create a new merge request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html)
-- [ ] [Automatically close issues from merge requests](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#closing-issues-automatically)
-- [ ] [Enable merge request approvals](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/)
-- [ ] [Automatically merge when pipeline succeeds](https://docs.gitlab.com/ee/user/project/merge_requests/merge_when_pipeline_succeeds.html)
-
-## Test and Deploy
-
-Use the built-in continuous integration in GitLab.
-
-- [ ] [Get started with GitLab CI/CD](https://docs.gitlab.com/ee/ci/quick_start/index.html)
-- [ ] [Analyze your code for known vulnerabilities with Static Application Security Testing(SAST)](https://docs.gitlab.com/ee/user/application_security/sast/)
-- [ ] [Deploy to Kubernetes, Amazon EC2, or Amazon ECS using Auto Deploy](https://docs.gitlab.com/ee/topics/autodevops/requirements.html)
-- [ ] [Use pull-based deployments for improved Kubernetes management](https://docs.gitlab.com/ee/user/clusters/agent/)
-- [ ] [Set up protected environments](https://docs.gitlab.com/ee/ci/environments/protected_environments.html)
-
-***
 
 # Editing this README
 
